@@ -1,0 +1,239 @@
+body{
+    font-family: 'open sans', sans serif ;
+}
+/*#fb, #tw, #lk{
+    width: 50px;
+    height: 50px;
+    display: block;
+    position: absolute;
+}
+#fb{
+    background-image: url("logos-sociaux.png");
+    background-position: 0px 0px;
+}
+#tw{
+    background-image: url("logos-sociaux.png");
+    background-position: -50px 0px;
+    left: 200px;
+}
+#lk{
+    background: url("logos-sociaux.png") -100px -50px;
+    left: 400px;
+}exemple56*/
+
+
+/*div{
+    width: 200px;
+    height: 200px ;
+    background-color: #06d;
+    -webkit-transition: width 2s, background-color 5s;
+    -moz-transition: width 2s, background-color 5s;
+    -o-transition: width 2s, background-color 5s;
+    transition: width 2s, background-color 5s;
+}
+div:hover{
+    width: 400px;
+    background-color: #a03;
+}exemple57*/
+/*div{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    -webkit-animation-name: chgt-couleur;
+    -webkit-animation-duration: 5s;
+    -moz-animation-name: chgt-couleur;
+    -moz-animation-duration: 5s;
+    -o-animation-name: chgt-couleur;
+    -o-animation-duration: 5s;
+    animation-name: chgt-couleur;
+    animation-duration: 5s;
+}
+@-webkit-keyframes chgt-couleur{
+    from{background-color: blue;}
+    to{background-color: orange;}
+}
+@-webkit-keyframes chgt-couleur{
+    from{background-color: blue;}
+    to{background-color: orange;}
+}
+@-webkit-keyframes chgt-couleur{
+    from{background-color: blue;}
+    to{background-color: orange;}
+}
+@-webkit-keyframes chgt-couleur{
+    from{background-color: blue;}
+    to{background-color: orange;}
+}*/
+/*div{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: relative;
+    -webkit-animation-name: chgt-couleur;
+    -webkit-animation-duration: 5s;
+    -webkit-animation-timing-function: ease;
+    -webkit-animation-delay: 4s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-direction: alternate;
+
+    -moz-animation-name: chgt-couleur;
+    -moz-animation-duration: 5s;
+    -moz-animation-timing-function: ease;
+    -moz-animation-delay: 4s;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-direction: alternate;
+
+    -o-animation-name: chgt-couleur;
+    -o-animation-duration: 5s;
+    -o-animation-timing-function: ease;
+    -o-animation-delay: 4s;
+    -o-animation-iteration-count: infinite;
+    -o-animation-direction: alternate;
+
+    animation-name: chgt-couleur;
+    animation-duration: 5s;
+    animation-timing-function: ease;
+    animation-delay: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+@-webkit-keyframes chgt-couleur{
+    0%{background-color: green; top: 0px; left: 0pX;}
+    25%{background-color: yellow; top: 0px; left: 200px;}
+    50%{background-color: red; top: 200px; left: 200px;}
+    75%{background-color: blue; top: 200px; left: 0px;}
+    100%{background-color: green; top: 0px; left: 0pX;}
+
+
+} exemple58*/
+
+/*body{
+    font-size: 16px;
+    font-family: Verdana sans-serif;
+    color: #333
+}
+#section1{
+    background-color: rgba(170, 200, 40, 0.6);
+    padding: 10px;
+    margin: 20px 0px;
+}
+#section2{
+    background-color: rgba(40, 170, 200, 0.6);
+    padding: 10px;
+    margin: 20px 0px;
+}
+#section1:hover, #section2:hover{
+    box-shadow: 0px 0px 5px #444;
+}
+legend{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: #444;
+}
+#section1 input{
+    width: 300px;
+    height: 20px;
+}
+#section2 input{
+    width: 20px;
+    height: 20px;
+
+}
+#section1 label{
+    display: inline-block;
+    width: 200px;
+    padding: 10px 0px 15px 40px;
+}
+#section2 label{
+    display: inline-block;
+    width: 100px;
+    padding: 5px 0px 15px 10px;
+}
+input[type="submit"]{
+    float: right;
+    padding: 10px;
+    font-size: 14px;
+    color: #fff;
+    background-color: #fe6921;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+input[type="submit"]:hover{
+    box-shadow: 0px 0px 4px #555;
+    background-color: #e8ab2e;
+} exemple 62*/
+
+
+/*@media screen and(max-width: 680px){
+    body{
+        background-color: orange;
+    }
+}
+@media screen and (min-width: 681px) and (max-width: 1279){
+    body{
+        background-color: blue;
+    }
+    h1{
+        font-size: 20px;
+    }
+}
+body{
+    background-color: green;
+} */
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#div1, #div2, #div3{
+    display: inline-block;
+    width: 30%;
+    height: 100px;
+    border: 3px solid #aaa;
+    margin: 1%;
+}
+#div1{
+    background-color: orange;
+}
+#div2{
+    background-color: blue;
+}
+#div3{
+    background-color: green;
+}
+#footer{
+    width: 100px;
+    height: 200px;
+    margin-top: 20px;
+    border-top: 1px solid black;
+    text-align: center;
+    background-color: #ccc;
+}
+@media screen and (max-width: 780px){
+    #div1, #div2, #div3{
+        width: 100px;
+        border-right: none;
+        border-left: none;
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+}
+#footer{
+    display: none;
+}
+
+
+@media screen and (orientation: landscape)
+
+
+
+
+
+
+
+
+
+
+

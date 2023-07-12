@@ -1,0 +1,7 @@
+.div1{
+    background: -webkit-linear-gradient(left, red,orange, yellow, blue);
+    background: -o-linear-gradient(bottom right, red,orange, yellow, blue);
+    background: -moz-linear-gradient(bottom right, red,orange, yellow, blue);
+    background: linear-gradient(bottom right, red,orange, yellow, blue);
+
+}

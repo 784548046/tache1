@@ -1,0 +1,19 @@
+h1:hover{
+    color: orange;
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color: green;
+
+}
+p:first-child{
+    color: orange;
+}
+p:last-child{
+    color: green;
+}
+p:nth-child(3){
+    color:purple
+}

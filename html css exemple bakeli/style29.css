@@ -1,0 +1,40 @@
+/*h1{
+    color: purple;
+
+}
+.p1{
+    color: blue;
+}
+.p2{
+    color:red;
+}
+h1{
+    color: #ff0000; 
+}
+.p1{
+    color:#0000FF
+}
+.p2{
+    color: #00ff00;
+}
+h1{
+    color: #88ff00;
+}
+.p1{
+    color:#000000
+}
+.p2{
+    color: #ff98ff;
+    
+}*/
+h1{
+    color: rgba(255, 000, 000);/*#ff0000*/
+}
+.p1{
+    color:rgb(000, 000, 125);
+}
+.p2{
+    color: rgb(000, 225, 000);
+    opacity: 0.5;
+    
+}

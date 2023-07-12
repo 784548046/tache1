@@ -1,0 +1,17 @@
+h1{
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: Verdana, sans-serif;   
+
+    background-color: #fff;
+    background-image: url(coucher-soleil.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top left;
+}
+p{
+    font: italic normal 16px/24px Verdana, sans-serif;
+    background: #fff url(coucher-soleil.jpg) no-repeat scroll top left ;
+}

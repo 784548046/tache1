@@ -1,0 +1,6 @@
+div[class="div1"]{
+    border: 1px solid black;
+}
+div > h2{
+    color: blue;
+}

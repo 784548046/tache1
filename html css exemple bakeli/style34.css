@@ -1,0 +1,15 @@
+.div1{
+    height: 400px;
+    width: 500px;
+    background-color: #088;
+    border: 5px solid black;
+}
+.p1{
+    height: 100px;
+    width: 50%;
+    background-color: blue;
+    border-width: 2px;
+    border-style: solid;
+    border-color: yellow;
+
+}

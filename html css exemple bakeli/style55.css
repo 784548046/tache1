@@ -1,0 +1,10 @@
+p::first-letter{
+    font-size: 30px;
+    color: #a92;
+}
+p::moz-selection{
+    background-color: orange;
+}
+p::selection{
+    background-color: orange;
+}
